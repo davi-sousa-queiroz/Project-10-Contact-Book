@@ -1,5 +1,4 @@
-4"}
-# Contact Manager 📇
+# (Project 10) Contact Manager 📇 (March 7th-8th 2026)
 
 This project is a simple contact manager built in Python.  
 It allows users to store and manage contacts using dictionaries.
